@@ -1,0 +1,13 @@
+
+:local(.BrandUsage) {
+  text-align: center;
+}
+
+:local(.row)  {
+    display: 'flex';
+    justifyContent: 'center';
+}
+
+:local(.avatar) {
+    margin: 10,
+  }
