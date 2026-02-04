@@ -45,7 +45,7 @@
     "http-server": "^0.11.1",
     "material-ui": "^0.20.0",
     "material-ui-icons": "^1.0.0-beta.17",
-    "node-sass": "^4.7.2",
+    "node-sass": "^4.9.3",
     "postcss-loader": "^2.0.10",
     "react-css-modules": "^4.7.1",
     "react-dev-utils": "^5.0.0",
